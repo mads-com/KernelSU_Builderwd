@@ -32,7 +32,7 @@ Zenitsu:
 
 DivestOS-13:
   kernel:
-    - git clone clone https://github.com/TARKZiM/android_device_samsung_sm7225-common.git -b divest-13
+    - git clone clone https://github.com/TARKZiM/android_device_samsung_sm7225-common.git -b divest-12
   clang:
     - git clone --depth=1 https://gitlab.com/Jprimero15/lolz_clang.git -b main
   config:
